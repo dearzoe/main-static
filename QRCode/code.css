@@ -2,4 +2,5 @@
 .impowerBox .title {display: none;}
 .impowerBox .info {width: 200px;}
 .status_icon {display：none!important;}
-.impowerBox .status {text-align: center;}
+.impowerBox .status {margin-left:0; text-align: center;}
+.impowerBox .wrp_code {margin-top:10px!important; }
